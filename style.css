@@ -37,3 +37,32 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+.divided{
+    box-shadow: 2px 2px 2px 2px gray;
+    width:250px;
+    margin-top: 30px;
+    padding:10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 80px;
+    margin-top: 60px;
+    border-radius: 5px;
+}
+.divided img{
+width: 100%;
+}
+#grey{
+    background-color:rgb(206, 216, 191);
+}
+#red{
+    background-color: rgb(212, 165, 165);
+}
+#yellow{
+    background-color: rgb(226, 226, 203);
+}
+
+
