@@ -1,0 +1,39 @@
+body{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 400px;
+    border-left: solid; 
+    border-color: red; 
+    padding-left: 5px;   
+
+}
+.text-yellow{
+color: rgb(236, 148, 65);
+}
+p{
+    font-size: 20px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.half-width img{
+    width: 70%;
+    height: 70%;
+    margin-top:0;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,rgb(211, 46, 17));
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
