@@ -111,3 +111,28 @@ h4{
     font-size: 50px;
 
 }
+#link{
+width:250px;
+height:250px;
+}
+.margin{
+ margin-left: 350px;
+}
+#last-part{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    color: white;
+    margin-top: 15%;
+}
+.last-part{
+    background-color: black;
+}
+span{
+    color: red;
+}
+#last-episod{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
