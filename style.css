@@ -43,17 +43,17 @@ h2{
 }
 .divided{
     box-shadow: 2px 2px 2px 2px gray;
-    width:250px;
-    margin-top: 30px;
-    padding:10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    margin-left: 80px;
+    width:20%;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 100px;
     margin-top: 60px;
     border-radius: 5px;
+    height: 5%;
 }
 .divided img{
-width: 100%;
+width: 50%;
 }
 #grey{
     background-color:rgb(206, 216, 191);
@@ -64,5 +64,50 @@ width: 100%;
 #yellow{
     background-color: rgb(226, 226, 203);
 }
+.half-w{
+    width: 100%;
+    padding-left: 5%;
+}
+.half-w img{
+    width: 110%;
+    height: 80%;
+    margin-top: 26%;
+}
+.part-three{
+    margin-top: 6%;
+    margin-left: 8%;
+    margin-right: 20%;
+}
+h4{
+    font-size: 40px;
+}
+.link-second{
+    text-decoration: none;
+    background-image: linear-gradient(tomato,rgb(211, 46, 17));
+    padding: 15px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.part-four{
+    margin-top: 6%;
+    margin-left: 5%;
+    margin-right: 20%;
+}
+.half-wl{
+    width: 100%;
+    padding-left: 5%;
+}
+.half-wl img{
+    width: 100%;
+    height: 60%;
+    margin-top: 26%;
+}
+.fivth{
+    display: flex;
+    margin-right: 90px;
+}
+#font-size{
+    font-size: 50px;
 
-
+}
